@@ -18,11 +18,12 @@ print(t-ts)"""
 #discount
 
 
-a=int(input("Enter Laptop price:"))
-b=(a*20)
+"""a=int(input("Enter Laptop price:"))
+x=int(input("Enter Quantity:"))
+b=(a*x)
 print(b)
 d=((b*15)/100)
-print("Gross profit:")
+print("Gross Discount:")
 print(d)
 print("Final amount:")
-print(b-d)
+print(b-d)"""
