@@ -39,13 +39,13 @@
 #     i+=1
 # print(c) 
      
-a= input("Enter Data:")
-l=len(a)
-i=0
-C=0
-while i<l :
-    if a<="A" and a>="Z" :
-       print(a)
-    i+=1
+# a= input("Enter Data:")
+# l=len(a)
+# i=0
+# C=0
+# while i<l :
+#     if a<="A" and a>="Z" :
+#        print(a)
+#     i+=1
 
 

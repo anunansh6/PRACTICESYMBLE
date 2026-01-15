@@ -34,11 +34,11 @@ print("Program End")"""
 
 # a=int(input("Enter your percentage:"))
 
-a=int(input("enter num:"))
-print(f"")
-if a>=0:
- 	print(" nuber psitive")
+# a=int(input("enter num:"))
+# print(f"")
+# if a>=0:
+#  	print(" nuber psitive")
 
-else:
-  print("Number nagtive")
-print("Program End")
+# else:
+#   print("Number nagtive")
+# print("Program End")

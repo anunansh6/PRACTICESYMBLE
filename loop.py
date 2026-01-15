@@ -58,11 +58,12 @@
 # c=2
 # while c<x:
 #     if x%c==0 :
-#         print(f "smallest deviser is {c}")
+#         print(f"smallest deviser is {c}")
 #         break
 #         c==1
-#     if x == c:
-#         print(f"{x}is not divisible any number ")    
+# if x == c:
+#     c+=1
+# print(f"{x}is not divisible any number ")    
 
 
 # x=int(input("Enter num :"))

@@ -66,6 +66,7 @@
 # x=[1,2,3,34,5,6,"znjbhjz"]
 # print(x.count(5))
 
-x=[1,2,3,34,5,6,"znjbhjz"]
-print(x.insert(0,67))
-print(x)
+# x=[1,2,3,34,5,6,"znjbhjz"]
+# print(x.insert(0,67))
+# print(x)
+

@@ -28,3 +28,8 @@
 #multiply operator 
 # x=["a","b"]
 # print(x*6)
+
+# my_string = "hello word"
+# print(my_string.replace("o"_"))
+
+# x="my name is anil"

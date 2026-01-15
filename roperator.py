@@ -26,18 +26,18 @@
 #print(a)
 #print("#"*100)
 
-"""a=int(input("Enter number 1st:"))
-print(a>50)"""
+# a=int(input("Enter number 1st:"))
+# print(a>50)
 
 
 #print("#"*100)
 #Example like this.....
-"""a=50
-a+=10
-a-=10
-a*=10
-a&=10
-a/=10
-a//=10
-a%=10
-print(a)"""
+# a=50
+# a+=10
+# a-=10
+# a*=10
+# a&=10
+# a/=10
+# a//=10
+# a%=10
+# print(a)
