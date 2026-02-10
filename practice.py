@@ -96,8 +96,51 @@
 
 # positinol arguments and keyword arguments.....
 
-def add(a,b,c):
-    print(a,b,c)
+# def add(a,b,c):
 # add(1,2,3)
 
 # add(c=1,b=2,a=3)
+
+# a=input("enter word :")
+# def swar(a):
+#     counter=0
+#     for x in a:
+#         if x in 'aeiou':
+#             counter+=1
+#     return counter
+# print(swar(a))            
+            
+# a=input("enter word :")
+# def vyanjan(a):
+#     counter=0
+#     for x in a:
+#         if x not in 'aeiou':
+#             counter+=1
+#     return counter
+# print(vyanjan(a))
+
+# default parameter......
+# def add (a,b=5):return a+b
+# print(add(10))
+
+# args and kuargs .....
+
+# def add (b,*a):
+#     return b,a
+# print(add(10,3,2,5,6,7,8,9,"jvjk","hduhf"))
+
+# print(add(10))
+
+# kwargs arguments...
+# def add(c=0,**a):
+#     """
+#     Docstring for add
+    
+#     :param c: Description
+#     :param a: Description
+#     test
+#     """
+#     return c,a
+# print(add(a=3,b=35))
+
+
